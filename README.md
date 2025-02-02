@@ -21,6 +21,7 @@ This document provides a detailed specification of the **User Management Screen*
 - **Email** (Text Input) – Required
 - **User Roles** (Dropdown) – Options: `Guest`, `Admin`, `SuperAdmin`
 - **Enabled** (Checkbox) – Whether the user is active or not
+<img width="387" alt="image" src="https://github.com/user-attachments/assets/4f394966-2fce-477e-88b7-fe66e036d76b" />
 
 ## 3. Actions and Behaviors
 | **Action** | **Behavior** |
