@@ -12,6 +12,7 @@ This document provides a detailed specification of the **User Management Screen*
   - **User Name**: The username of the user.
   - **Email**: User's email address.
   - **Enabled**: Boolean flag indicating if the user is active (`true`) or disabled (`false`).
+<img width="391" alt="image" src="https://github.com/user-attachments/assets/15961a27-58a4-45d3-acee-ab042d55d0d6" />
 
 ### 2.2. New User Form (Right Panel)
 - **Username** (Text Input) – Required
