@@ -24,6 +24,6 @@ This document provides a detailed specification of the **User Management Screen*
 ## 3. Actions and Behaviors
 | **Action** | **Behavior** |
 |------------|-------------|
-| **Click "New User"** | Clears the right panel inputs for a new user. |
-| **Click on a user in the table** | Loads the user’s details into the right panel for editing. |
-| **Edit and Save User** | Updates the selected user’s details. Validation required. |
+| **Click "New User"** | New User Form displays. |
+| **Click on Save User** | Saves newly created user and goes back to the User List component. |
+| **Hide Disabled User** | Removes disabled users in the User List. |
